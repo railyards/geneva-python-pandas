@@ -3,7 +3,7 @@
 ## Meta-Information
 
 *   Module Maintainer: Lachlan Deer (`@lachlandeer`)
-*   Course: [SWC Geneva](https://lachlandeer.github.io/2018-03-08-geneva/))
+*   Course: [SWC Geneva](https://lachlandeer.github.io/2018-03-08-geneva/)
 
 ## Contents
 
